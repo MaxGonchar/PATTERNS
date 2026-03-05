@@ -22,10 +22,10 @@ GRASP → GoF Design Patterns → Architectural Patterns → Enterprise Patterns
 
 - [x] **Information Expert** - Assign responsibility to the class that has the information
 - [x] **Creator** - Who creates objects?
-- [ ] **Controller** - First object beyond UI layer
-- [ ] **Low Coupling** - Reduce dependencies between classes
-- [ ] **High Cohesion** - Keep related things together
-- [ ] **Polymorphism** - Use polymorphism to handle alternatives
+- [x] **Controller** - First object beyond UI layer
+- [x] **Low Coupling** - Reduce dependencies between classes
+- [x] **High Cohesion** - Keep related things together
+- [x] **Polymorphism** - Use polymorphism to handle alternatives
 - [ ] **Pure Fabrication** - Create helper classes when needed
 - [ ] **Indirection** - Use intermediary to reduce coupling
 - [ ] **Protected Variations** - Shield from variations
